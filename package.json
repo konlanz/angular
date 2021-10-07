@@ -46,7 +46,7 @@
   "dependencies": {
     "@angular-devkit/architect": "0.1000.0-rc.2",
     "@angular-devkit/build-angular": "0.1000.0-rc.2",
-    "@angular-devkit/build-optimizer": "0.1000.0-rc.2",
+    "@angular-devkit/build-optimizer": "0.1202.6",
     "@angular-devkit/core": "10.0.0-rc.2",
     "@angular-devkit/schematics": "10.0.0-rc.2",
     "@babel/cli": "^7.8.4",
