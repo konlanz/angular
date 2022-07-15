@@ -45,7 +45,7 @@
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
     "@angular-devkit/architect": "0.1000.0-rc.2",
-    "@angular-devkit/build-angular": "0.1000.0-rc.2",
+    "@angular-devkit/build-angular": "0.1000.0",
     "@angular-devkit/build-optimizer": "0.1000.0-rc.2",
     "@angular-devkit/core": "10.0.0-rc.2",
     "@angular-devkit/schematics": "10.0.0-rc.2",
@@ -149,7 +149,7 @@
     "source-map-support": "0.5.9",
     "sourcemap-codec": "^1.4.8",
     "systemjs": "0.18.10",
-    "terser": "^4.4.0",
+    "terser": "^4.8.1",
     "tsickle": "0.38.1",
     "tslib": "^2.0.0",
     "tslint": "6.1.3",
