@@ -45,7 +45,7 @@
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
     "@angular-devkit/architect": "0.1000.0-rc.2",
-    "@angular-devkit/build-angular": "0.1000.0-rc.2",
+    "@angular-devkit/build-angular": "0.1102.13",
     "@angular-devkit/build-optimizer": "0.1000.0-rc.2",
     "@angular-devkit/core": "10.0.0-rc.2",
     "@angular-devkit/schematics": "10.0.0-rc.2",
