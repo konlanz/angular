@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "Angular Language Service plugin integration test",
   "dependencies": {
-    "@angular/core": "file:../../dist/packages-dist/core",
+    "@angular/core": "19.2.18",
     "@angular/language-service": "file:../../dist/packages-dist/language-service",
     "@types/jasmine": "file:../../node_modules/@types/jasmine",
     "@types/node": "file:../../node_modules/@types/node",
