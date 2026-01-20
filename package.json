@@ -45,7 +45,7 @@
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
     "@angular-devkit/architect": "0.1000.0-rc.2",
-    "@angular-devkit/build-angular": "0.1000.0-rc.2",
+    "@angular-devkit/build-angular": "12.0.0",
     "@angular-devkit/build-optimizer": "0.1000.0-rc.2",
     "@angular-devkit/core": "10.0.0-rc.2",
     "@angular-devkit/schematics": "10.0.0-rc.2",
@@ -93,7 +93,7 @@
     "@types/yaml": "^1.9.7",
     "@types/yargs": "^15.0.5",
     "@webcomponents/custom-elements": "^1.1.0",
-    "angular": "npm:angular@1.7",
+    "angular": "1.8.3",
     "angular-1.5": "npm:angular@1.5",
     "angular-1.6": "npm:angular@1.6",
     "angular-mocks": "npm:angular-mocks@1.7",
